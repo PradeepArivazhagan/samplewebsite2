@@ -1,0 +1,138 @@
+.headnav{
+    padding: 20px;
+    background-color: #394867;
+    width: 100vw;
+}
+.webtitle{
+    color: #F1F6F9;
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.web-logo{
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+    margin-left: 50px;
+}
+.bttn{
+    color: #F1F6F9;
+    background-color: #212A3E;
+    font-size: 15px;
+    font-family: cursive;
+    border: none;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5px;
+}
+.bttng{
+    margin-left: 900px;
+}
+.aftnav{
+    background-image: url('https://www.cypressgreen.in/blog/wp-content/uploads/2021/03/food.jpg');
+    height: 400px;
+    width: 100vw;
+    background-size: cover;
+    padding: 100px;
+}
+.aftnavtitle{
+    color: #F1F6F9;
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: 800;
+}
+.aftnavpara{
+    color: #F1F6F9;
+    font-family: cursive;
+    font-size: 30px;
+}
+.disbtn{
+    font-size: 20px;
+    color: #F1F6F9;
+    background-color: transparent;
+    border-radius: 10px;
+}
+.favfoodsec{
+    background-color: #9BA4B5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100vw;
+}
+.favfoodtitle{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    background-color: #F1F6F9;
+    padding: 20px;
+    text-align: center;
+}
+.indfood{
+    background-color: #F1F6F9;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+}
+.indfoodimg{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+.indfoodtext{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: #212A3E;
+    padding-top: 5px;
+}
+.indfoodpara{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #394867;
+    padding-top: 5px;
+}
+.addtoplate{
+    color: #F1F6F9;
+    background-color: #f04522;
+    border: none;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: cursive;
+}
+
+.morefood{
+    font-family: cursive;
+    font-size: 20px;
+    color:#F1F6F9;
+    background-color: #212A3E;
+    border: none;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.footer-sec-title{
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+.footer-sec-para{
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.headnavs{
+    padding: 20px;
+    background-color: #394867;
+    width: 100vw;
+}
+.ind-cont-footer{
+    margin: 5px;
+}
